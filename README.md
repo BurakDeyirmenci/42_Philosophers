@@ -3,9 +3,7 @@ Philo, felsefecilerin bir masanın etrafında oturduğu ve birlikte yemek yediğ
 ## İçindekiler  
 1. [Proje Tanımı](#proje-tanımı) 
 2. [Kurulum](#kurulum) 
-3. [Kullanım](#kullanım) 
-4. [Bağışta Bulunma](#bağışta-bulunma) 
-5. [İletişim](#iletişim)  
+3. [Kullanım](#kullanım)
 ## Proje Tanımı  
 Philo, belirli sayıda felsefeciye sahip bir simülasyon programıdır. Her felsefeci, yemek yemek, düşünmek veya uyumak için farklı zaman dilimlerinde etkinliklerde bulunur. Ayrıca, her bir felsefeci bir çift çatala ihtiyaç duyar ve bu çataları diğer felsefecilerle paylaşır. Program, felsefecilerin durumlarını ve etkinliklerini zaman damgaları ile kaydeder ve belirli koşullar altında simülasyonu sonlandırır.  
 ## Kurulum  
